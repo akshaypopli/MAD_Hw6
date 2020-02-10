@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HW_06</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_myAvatar">My Avatar</string>
+    <string name="tv_department">Department</string>
+    <string name="rb_cs">CS</string>
+    <string name="rb_sis">SIS</string>
+    <string name="rb_bio">BIO</string>
+    <string name="rb_other">Other</string>
+    <string name="btn_save">Save</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_id">Student ID</string>
+    <string name="tv_deptLabel">Department</string>
+    <string name="btn_edit">Edit</string>
+</resources>
